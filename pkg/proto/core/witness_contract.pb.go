@@ -256,8 +256,8 @@ const file_core_contract_witness_contract_proto_rawDesc = "" +
 	"\x04Vote\x12!\n" +
 	"\fvote_address\x18\x01 \x01(\fR\vvoteAddress\x12\x1d\n" +
 	"\n" +
-	"vote_count\x18\x02 \x01(\x03R\tvoteCountBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"vote_count\x18\x02 \x01(\x03R\tvoteCountBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_witness_contract_proto_rawDescOnce sync.Once

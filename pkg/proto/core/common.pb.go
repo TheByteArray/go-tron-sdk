@@ -80,8 +80,8 @@ const file_core_contract_common_proto_rawDesc = "" +
 	"\n" +
 	"\x06ENERGY\x10\x01\x12\x0e\n" +
 	"\n" +
-	"TRON_POWER\x10\x02BK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"TRON_POWER\x10\x02BN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_common_proto_rawDescOnce sync.Once

@@ -412,8 +412,8 @@ const file_core_Discover_proto_rawDesc = "" +
 	"\ttimestamp\x18\x03 \x01(\x03R\ttimestamp\"?\n" +
 	"\rBackupMessage\x12\x12\n" +
 	"\x04flag\x18\x01 \x01(\bR\x04flag\x12\x1a\n" +
-	"\bpriority\x18\x02 \x01(\x05R\bpriorityBL\n" +
-	"\x0forg.tron.protosB\bDiscoverZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\bpriority\x18\x02 \x01(\x05R\bpriorityBO\n" +
+	"\x0forg.tron.protosB\bDiscoverZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_Discover_proto_rawDescOnce sync.Once

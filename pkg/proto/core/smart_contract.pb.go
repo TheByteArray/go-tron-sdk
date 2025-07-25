@@ -989,8 +989,8 @@ const file_core_contract_smart_contract_proto_rawDesc = "" +
 	"\x18SmartContractDataWrapper\x12>\n" +
 	"\x0esmart_contract\x18\x01 \x01(\v2\x17.protocol.SmartContractR\rsmartContract\x12 \n" +
 	"\vruntimecode\x18\x02 \x01(\fR\vruntimecode\x12>\n" +
-	"\x0econtract_state\x18\x03 \x01(\v2\x17.protocol.ContractStateR\rcontractStateBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\x0econtract_state\x18\x03 \x01(\v2\x17.protocol.ContractStateR\rcontractStateBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_smart_contract_proto_rawDescOnce sync.Once

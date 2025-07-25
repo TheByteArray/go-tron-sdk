@@ -118,7 +118,7 @@ const file_completeTx_proto_rawDesc = "" +
 	"\x02Tx\x18\x03 \x01(\v2\x1e.protocol.TransactionExtentionR\x02Tx\x12-\n" +
 	"\x04Info\x18\x04 \x01(\v2\x19.protocol.TransactionInfoR\x04Info\x126\n" +
 	"\fExchangeInfo\x18\x05 \x01(\v2\x12.protocol.ExchangeR\fExchangeInfo\x12:\n" +
-	"\tAssetInfo\x18\x06 \x01(\v2\x1c.protocol.AssetIssueContractR\tAssetInfoB1Z/github.com/TheByteArray/go-tron-sdk/pkg/proto/utilb\x06proto3"
+	"\tAssetInfo\x18\x06 \x01(\v2\x1c.protocol.AssetIssueContractR\tAssetInfoB4Z2github.com/TheByteArray/go-tron-sdk/pkg/proto/utilb\x06proto3"
 
 var (
 	file_completeTx_proto_rawDescOnce sync.Once

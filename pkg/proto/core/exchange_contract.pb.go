@@ -338,8 +338,8 @@ const file_core_contract_exchange_contract_proto_rawDesc = "" +
 	"exchangeId\x12\x19\n" +
 	"\btoken_id\x18\x03 \x01(\fR\atokenId\x12\x14\n" +
 	"\x05quant\x18\x04 \x01(\x03R\x05quant\x12\x1a\n" +
-	"\bexpected\x18\x05 \x01(\x03R\bexpectedBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\bexpected\x18\x05 \x01(\x03R\bexpectedBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_exchange_contract_proto_rawDescOnce sync.Once

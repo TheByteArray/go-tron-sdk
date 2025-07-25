@@ -197,8 +197,8 @@ const file_api_zksnark_proto_rawDesc = "" +
 	"\n" +
 	"\x06FAILED\x10\x012Y\n" +
 	"\vTronZksnark\x12J\n" +
-	"\x11CheckZksnarkProof\x12\x18.protocol.ZksnarkRequest\x1a\x19.protocol.ZksnarkResponse\"\x00BN\n" +
-	"\forg.tron.apiB\x0eZksnarkGrpcAPIZ.github.com/TheByteArray/go-tron-sdk/pkg/proto/apib\x06proto3"
+	"\x11CheckZksnarkProof\x12\x18.protocol.ZksnarkRequest\x1a\x19.protocol.ZksnarkResponse\"\x00BQ\n" +
+	"\forg.tron.apiB\x0eZksnarkGrpcAPIZ1github.com/TheByteArray/go-tron-sdk/pkg/proto/apib\x06proto3"
 
 var (
 	file_api_zksnark_proto_rawDescOnce sync.Once

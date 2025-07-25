@@ -80,8 +80,8 @@ const file_core_TronInventoryItems_proto_rawDesc = "" +
 	"\x1dcore/TronInventoryItems.proto\x12\bprotocol\":\n" +
 	"\x0eInventoryItems\x12\x12\n" +
 	"\x04type\x18\x01 \x01(\x05R\x04type\x12\x14\n" +
-	"\x05items\x18\x02 \x03(\fR\x05itemsBV\n" +
-	"\x0forg.tron.protosB\x12TronInventoryItemsZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\x05items\x18\x02 \x03(\fR\x05itemsBY\n" +
+	"\x0forg.tron.protosB\x12TronInventoryItemsZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_TronInventoryItems_proto_rawDescOnce sync.Once

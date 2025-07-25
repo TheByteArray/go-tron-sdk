@@ -8016,8 +8016,8 @@ const file_core_Tron_proto_rawDesc = "" +
 	"\rBELOW_THAN_ME\x10$\x12\x0f\n" +
 	"\vNOT_WITNESS\x10%\x12\x13\n" +
 	"\x0fNO_SUCH_MESSAGE\x10&\x12\f\n" +
-	"\aUNKNOWN\x10\xff\x01BL\n" +
-	"\x0forg.tron.protosB\bProtocolZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\aUNKNOWN\x10\xff\x01BO\n" +
+	"\x0forg.tron.protosB\bProtocolZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_Tron_proto_rawDescOnce sync.Once

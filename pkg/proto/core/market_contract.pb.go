@@ -163,8 +163,8 @@ const file_core_contract_market_contract_proto_rawDesc = "" +
 	"\x12buy_token_quantity\x18\x05 \x01(\x03R\x10buyTokenQuantity\"[\n" +
 	"\x19MarketCancelOrderContract\x12#\n" +
 	"\rowner_address\x18\x01 \x01(\fR\fownerAddress\x12\x19\n" +
-	"\border_id\x18\x02 \x01(\fR\aorderIdBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\border_id\x18\x02 \x01(\fR\aorderIdBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_market_contract_proto_rawDescOnce sync.Once

@@ -787,8 +787,8 @@ const file_core_contract_shield_contract_proto_rawDesc = "" +
 	"\x13receive_description\x18\x04 \x03(\v2\x1c.protocol.ReceiveDescriptionR\x12receiveDescription\x12+\n" +
 	"\x11binding_signature\x18\x05 \x01(\fR\x10bindingSignature\x124\n" +
 	"\x16transparent_to_address\x18\x06 \x01(\fR\x14transparentToAddress\x12\x1b\n" +
-	"\tto_amount\x18\a \x01(\x03R\btoAmountBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\tto_amount\x18\a \x01(\x03R\btoAmountBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_shield_contract_proto_rawDescOnce sync.Once

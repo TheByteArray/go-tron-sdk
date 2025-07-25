@@ -289,8 +289,8 @@ const file_core_contract_account_contract_proto_rawDesc = "" +
 	"\rowner_address\x18\x01 \x01(\fR\fownerAddress\x12*\n" +
 	"\x05owner\x18\x02 \x01(\v2\x14.protocol.PermissionR\x05owner\x12.\n" +
 	"\awitness\x18\x03 \x01(\v2\x14.protocol.PermissionR\awitness\x12.\n" +
-	"\aactives\x18\x04 \x03(\v2\x14.protocol.PermissionR\aactivesBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\aactives\x18\x04 \x03(\v2\x14.protocol.PermissionR\aactivesBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_account_contract_proto_rawDescOnce sync.Once

@@ -570,8 +570,8 @@ const file_core_contract_asset_issue_contract_proto_rawDesc = "" +
 	"to_address\x18\x02 \x01(\fR\ttoAddress\x12\x1d\n" +
 	"\n" +
 	"asset_name\x18\x03 \x01(\fR\tassetName\x12\x16\n" +
-	"\x06amount\x18\x04 \x01(\x03R\x06amountBK\n" +
-	"\x18org.tron.protos.contractZ/github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
+	"\x06amount\x18\x04 \x01(\x03R\x06amountBN\n" +
+	"\x18org.tron.protos.contractZ2github.com/TheByteArray/go-tron-sdk/pkg/proto/coreb\x06proto3"
 
 var (
 	file_core_contract_asset_issue_contract_proto_rawDescOnce sync.Once
